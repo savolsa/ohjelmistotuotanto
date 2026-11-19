@@ -1,0 +1,5 @@
+Start, Stop, Continue, More of, Less of Wheel
+Tiimistä kerätään avointa palautetta ympyräkaavion avulla. Palautteen perusteella tiimi arvio työskentelyjaksoa tai välitavoitetta viiden kategorian kautta. Kategoriat ovat mitä pitäisi aloittaa, lopettaa, jatkaa, tehdä enemmän ja tehdä vähemmän. Arvioinnin jälkeen keskustellaan havainnoista ja sovitaan konkreettisista muutoksista, jotka aijotaan ottaa käyttöön. Tavoitteena on saada palautetta tiimin toimintatavoista, jotta saadaan tietää, mitä kannattaa jatkaa ja miotä tulisi muuttaa.
+
+Glad, Sad, Mad
+Tiimin jäsenet luokittelevat kokemukset kolmeen luokkaan. Asioihin, jotka ilahduttivat (Glad), aiheuttivat pettymystä (Sad) ja trhauttivat (Mad). Lopuksi näistä asioista keskustellaan ja päätetään jatkotoimista. Tavoitteena on tunnistaa tiimin työskentelyn hyvät ja huonot puolet sekä löytää koinoja yhteistyön parantamiseen.
